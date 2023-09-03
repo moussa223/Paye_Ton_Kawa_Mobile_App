@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "868084891296",
+    "project_id": "mspr-ras",
+    "storage_bucket": "mspr-ras.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868084891296:android:383ce2e94dfa52b79053c5",
+        "android_client_info": {
+          "package_name": "com.example.login_screen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868084891296-8r0qhmifgkqfqb8hdpg2jgt3en2iufip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlMLL0wrD6J87HWfmGijY3nbNyRRxNRnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "868084891296-8r0qhmifgkqfqb8hdpg2jgt3en2iufip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
